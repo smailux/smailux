@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ismail Mernissi<br>
 
-A student developer and aspiring Computer Scientist based in France.<br>
+A highschooler and aspiring Computer Scientist based in Morocco.<br>
 
 🔭 **I’m currently working on:** Recursive data structures and algorithmic challenges on Project Euler.<br>
 
