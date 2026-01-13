@@ -2,7 +2,6 @@
 
 A highschooler and aspiring Computer Scientist based in Morocco.<br>
 
-🔭 **I’m currently working on:** Recursive data structures and algorithmic challenges on Project Euler.<br>
 
 👨‍🎓 **Academic Path:** Final year student in the French Baccalauréat, specializing in **Mathématiques** and **NSI** with option **Mathématiques Expertes**.<br>
 🤖 **Experience:** Participated to the **2025 Imperial Global Summer School** in Data Science and AI.<br>
